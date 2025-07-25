@@ -1,3 +1,6 @@
+# Path to strategies
+Strategies for all the six instruments are there in strategies folder above
+
 # SOC 2025: Algorithmic Trading in Python
 
 This is the backtester you will be using to analyze the performance of your strategies. We will update this repository time to time so make sure you set it as upstream and keep fetching updates. 
