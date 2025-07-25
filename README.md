@@ -1,5 +1,5 @@
 # Path to strategies
-Strategies for all the six instruments are there in strategies folder above
+Strategies for all the eight instruments are there in strategies folder above
 
 # SOC 2025: Algorithmic Trading in Python
 
